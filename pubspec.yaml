@@ -11,9 +11,7 @@ publish_to: none
 dependencies:
   charset_converter: ^2.0.0
   esc_pos_utils: 
-    git: 
-      url: git@github.com:mysharkbate/esc_pos_utils.git
-      ref: 8b08d55
+    git: git@github.com:mysharkbate/esc_pos_utils.git
   flutter:
     sdk: flutter
   # esc_pos_utils:
