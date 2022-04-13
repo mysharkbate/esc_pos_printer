@@ -12,8 +12,8 @@ dependencies:
   charset_converter: ^2.0.0
   esc_pos_utils: 
     git: 
-      url: git@github.com:Requiem4Eternity/esc_pos_utils.git
-      ref: 1d00520
+      url: git@github.com:mysharkbate/esc_pos_utils.git
+      ref: 8b08d55
   flutter:
     sdk: flutter
   # esc_pos_utils:
